@@ -17,3 +17,7 @@ IL2CPP dumps for Critical Ops x86-64.
 ## Disclaimer
 
 For educational and research purposes only.
+
+## Credits
+
+fdjftmczxh for - [IL2CPP-Dumper](https://github.com/fdjftmczxh/IL2CPP-Dumper).
